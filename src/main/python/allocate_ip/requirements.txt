@@ -1,0 +1,2 @@
+requests==2.21.0
+phpipam-client==0.4.0
